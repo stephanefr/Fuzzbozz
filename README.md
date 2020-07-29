@@ -9,7 +9,7 @@ Write a program that takes two numbers as parameters and
 prints all the integers between these two numbers according to the
 following rules:
 
-For this project, the only authorized function is write, atoi, printf.
+For this project, the only authorized functions are `write`, `atoi`, `printf`.
 
 the second parameter must be greater than or equal as the first one,
 
